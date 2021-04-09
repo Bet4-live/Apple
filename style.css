@@ -28,11 +28,6 @@ textarea {overflow:auto;}
 		 url('fonts/open_sans_condensed-webfont.svg#Open Sans Condensed') format('svg');
 		 
 }
-/* Set the background color of body to tan */
-body {
-  background-color: tan;
-}
-
 
 .ust{
   width: 100%; 
